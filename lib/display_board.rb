@@ -14,4 +14,3 @@ puts row3
 end
 
 display_board(board)
-
